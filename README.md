@@ -97,5 +97,6 @@ The script will print the solved Kakuro puzzle and the time taken to solve it.
 ■\9	2	3	■\10	4	5	■\16	6	7	■\11	
 ■\38	4	5	6	7	■	■	■\3	■	■	
 ■\7	1	2	■	■\12	3	■	■	■	■	
-■	■\4	3	■	■	■\3	■	■	■	■	
+■	■\4	3	■	■	■\3	■	■	■	■
+0.20640921592712402
 ```
