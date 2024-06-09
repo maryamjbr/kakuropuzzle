@@ -12,7 +12,7 @@ This Python script solves Kakuro puzzles, a type of logic puzzle that is often r
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/maryamjbr/kakuropuzzle.git
+    git clone https://github.com/maryamjbr/kakuro-solver.git
     cd kakuro-solver
     ```
 
