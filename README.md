@@ -87,7 +87,7 @@ matrix2=[
 ### Output
 The script will print the solved Kakuro puzzle and the time taken to solve it.
 
-
+```python
 ■	■	■	■\17	■\19	■	■	7\■	44\■	■	
 ■	3\■	37\17	5	6	■	■\10	4	9	23\■	
 ■\20	1	2	3	4	■\6	3\15	6	7	8	
@@ -98,3 +98,4 @@ The script will print the solved Kakuro puzzle and the time taken to solve it.
 ■\38	4	5	6	7	■	■	■\3	■	■	
 ■\7	1	2	■	■\12	3	■	■	■	■	
 ■	■\4	3	■	■	■\3	■	■	■	■	
+```
