@@ -18,7 +18,7 @@ This Python script solves Kakuro puzzles, a type of logic puzzle that is often r
 
 2. Run the script:
     ```bash
-    python kakuropuzzle.py
+    python kakuro.py
     ```
 
 ## How it Works
