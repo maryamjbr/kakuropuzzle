@@ -13,12 +13,12 @@ This Python script solves Kakuro puzzles, a type of logic puzzle that is often r
 1. Clone the repository:
     ```bash
     git clone https://github.com/maryamjbr/kakuropuzzle.git
-    cd kakuro-solver
+    cd kakuropuzzle
     ```
 
 2. Run the script:
     ```bash
-    python kakuro_solver.py
+    python kakuropuzzle.py
     ```
 
 ## How it Works
