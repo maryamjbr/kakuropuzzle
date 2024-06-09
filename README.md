@@ -83,6 +83,7 @@ matrix2=[
     [["*",7] ,0,0,0,"*",["*",12] ,0,0,0,0],
     ["*", ["*",4]  , 0 , 0, "*",["*",3] , 0, 0,"*","*"]
 ]
+```
 ### Output
 The script will print the solved Kakuro puzzle and the time taken to solve it.
 
